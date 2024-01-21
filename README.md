@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto frontend - Rockeseat Space Time </h1>
+<h1 align="center"> Projeto frontend - Rocketseat Space Time </h1>
 
 <p align="center">
 Projeto desenvolvido na semana NLW da Rockeseat com react, porém aqui o projeto foi usando as tecnologias mencionadas. <br/>
